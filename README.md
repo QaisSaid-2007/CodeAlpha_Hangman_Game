@@ -357,7 +357,7 @@ By building this project, the following skills were developed:
 
 ---
 
-## 👤 Author
+## 👤 Author - Qais Said Al-Siyabi
 
 **Developed as part of a Python Programming Internship Project.**
 
